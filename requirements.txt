@@ -1,0 +1,10 @@
+transformers
+torch
+flask
+langchain
+datasets
+sentence-transformers
+langchain_community
+numpy
+pandas
+scikit-learn

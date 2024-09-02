@@ -1,0 +1,112 @@
+Name,Ticker,Sector,Number Of Employees,Decarbonization_Target Year,Decarbonization_Target_Comprehensiveness,Decarbonization_Target_Ambition p.a.,Temperature_Goal,Environmental_Involvement_Weight_metric,Social_Involvement_weight_metric,Governance_Involvement_weight_metric,Total ESG Risk score,Environment Risk Score,Governance Risk Score,Social Risk Score,Controversy Level,Controversy Score,ESG Risk Percentile,ESG Risk Level,turnover
+F5 Inc,FFIV,Technology,6459,2030,1.92,0.91,1.7,05.01,8.54,02.01,17.1,4.1,5.4,7.6,Low,1,23rd percentile,Negligible,201.2
+Oracle Corp,ORCL,Technology,164000,2050,100.0,-3.57,1.3,4.51,9.7,02.01,14.0,0.5,5.7,7.7,Moderate,2,8th percentile,Low,136.12
+Fortinet Inc,FTNT,Technology,13568,2030,1.16,0.88,1.6,4.51,09.04,02.01,19.0,2.5,6.4,10.0,Low,1,23rd percentile,Low,57.51
+Netapp Inc,NTAP,Technology,12000,2030,90.37,-3.83,1.7,4.51,8.54,02.01,15.4,2.2,5.5,7.7,Low,1,12th percentile,Low,123.08
+Apple Inc,AAPL,Technology,161000,2030,100.0,-11.58,1.7,04.01,11.69,2.34,17.2,0.5,9.4,7.4,Significant,3,15th percentile,Low,218.45
+Ansys Inc,ANSS,Technology,6200,2027,6.92,0.71,1.6,05.01,09.04,02.01,15.9,3.5,5.1,7.3,Very Low,0,6th percentile,Negligible,306.06
+Cms Energy Corp,CMS,Utilities,8356,2050,100.0,-2.9,2.3,05.01,10.36,2.34,21.7,9.6,5.2,6.8,Moderate,2,30th percentile,Medium,64.58
+Trimble Inc,TRMB,Technology,12700,2030,05.03,0.9,2.1,4.51,9.54,02.01,13.0,3.2,6.1,3.7,Very Low,0,6th percentile,Low,54.32
+Nvidia Corp,NVDA,Technology,29600,2025,1.26,0.59,2.7,05.01,08.04,02.01,13.6,2.3,6.3,4.9,Moderate,2,7th percentile,Low,105.98
+Nasdaq Inc,NDAQ,Financial Services,8525,2050,100.0,-3.57,1.5,4.51,08.04,02.01,13.1,0.0,7.4,5.6,Low,1,8th percentile,Low,69.4
+Baxter International Inc,BAX,Healthcare,60000,2030,13.43,0.22,2.4,05.01,08.04,2.34,24.0,2.8,7.3,13.6,Significant,3,39th percentile,Medium,36.07
+Corning Inc,GLW,Technology,49800,2028,91.55,-5.32,2.4,05.01,07.04,1.51,19.0,7.0,7.0,5.0,Moderate,2,24th percentile,Negligible,39.2
+Equinix Inc,EQIX,Real Estate,13151,2030,68.56,-7.92,3.0,05.01,8.54,02.01,13.9,3.4,5.1,5.3,Low,1,4th percentile,Low,770.37
+Schlumberger Ltd,SLB,Energy,111000,2050,100.0,-3.57,1.4,05.01,8.54,02.01,20.3,8.1,5.9,6.3,Low,1,32nd percentile,Medium,47.36
+Global Payments Inc,GPN,Industrials,27000,2040,5.14,0.75,1.6,05.01,09.04,02.01,19.0,1.3,6.8,11.0,Low,1,23rd percentile,Low,101.56
+Target Corp,TGT,Consumer Defensive,415000,2040,100.0,-5.56,1.5,4.51,9.2,02.01,15.0,2.0,5.1,7.6,Significant,3,10th percentile,Low,147.36
+Netflix Inc,NFLX,Communication Services,13000,2030,100.0,-12.5,1.7,05.01,10.53,2.34,16.0,0.1,9.3,6.8,Moderate,2,13th percentile,Low,622.98
+Synopsys Inc,SNPS,Technology,20300,2032,4.23,0.78,2.1,04.01,8.54,02.01,13.0,3.2,4.1,6.2,Very Low,0,7th percentile,Low,529.78
+Conagra Brands Inc,CAG,Consumer Defensive,18600,2030,42.05,-0.64,2.9,05.01,9.2,02.01,32.0,11.0,4.9,15.9,Moderate,2,71st percentile,High,30.32
+Paypal Holdings Inc,PYPL,Financial Services,27200,2040,100.0,-5.56,1.3,04.01,9.2,2.34,17.8,2.8,5.8,9.2,Moderate,2,13th percentile,Low,64.0
+C.H. Robinson Worldwide Inc,CHRW,Industrials,15246,2025,0.56,1.0,2.0,04.01,9.7,02.01,20.0,5.0,6.0,9.0,Low,1,26th percentile,Low,89.23
+T Mobile Us Inc,TMUS,Communication Services,67000,2040,100.0,-5.56,1.4,05.01,9.86,02.01,26.0,5.0,7.7,13.4,Significant,3,48th percentile,Medium,174.29
+Illumina Inc,ILMN,Healthcare,13360,2050,61.64,-1.76,2.1,4.51,9.7,02.01,11.0,1.0,6.0,4.0,Significant,3,3rd percentile,Negligible,123.07
+Comcast Corp Class A,CMCSA,Communication Services,186000,2035,11.11,-7.14,1.4,4.51,10.04,02.01,25.0,4.6,8.1,12.1,Moderate,2,43rd percentile,Medium,37.81
+Johnson Controls Internation,JCI,Industrials,100000,2030,65.99,0.25,1.8,4.34,10.36,1.51,15.0,4.9,5.3,4.6,Significant,3,10th percentile,Low,69.32
+Best Buy Co Inc,BBY,Consumer Cyclical,85000,2050,54.47,0.42,3.1,04.01,09.04,02.01,14.0,2.2,4.8,7.2,Moderate,2,9th percentile,Low,84.77
+Chipotle Mexican Grill Inc,CMG,Consumer Cyclical,116068,2030,100.0,-8.2,1.8,4.51,9.2,02.01,24.0,5.5,4.7,13.4,Moderate,2,39th percentile,Medium,52.3
+Duke Energy Corp,DUK,Utilities,27037,2050,100.0,-3.57,3.3,05.01,9.86,02.01,28.0,14.5,4.6,8.6,Moderate,2,54th percentile,Medium,109.38
+Zoetis Inc,ZTS,Healthcare,14100,2030,16.13,-1.15,1.6,05.01,9.2,02.01,18.0,1.4,8.9,8.1,Low,1,20th percentile,Low,181.75
+Johnson & Johnson,JNJ,Healthcare,131900,2050,100.0,-3.14,1.3,3.51,10.69,2.67,25.0,0.7,8.6,15.8,High,4,44th percentile,Medium,161.0
+Paychex Inc,PAYX,Industrials,16600,2040,1.77,01.01,2.0,4.51,09.04,02.01,17.0,1.2,6.5,9.8,Very Low,0,17th percentile,Low,127.66
+Amgen Inc,AMGN,Healthcare,26700,2027,4.95,-0.02,1.5,05.01,8.2,02.01,22.0,0.7,7.9,13.5,Significant,3,32nd percentile,Medium,333.94
+Bristol Myers Squibb Co,BMY,Healthcare,34100,2025,3.51,0.8,1.5,04.01,9.7,2.67,23.0,0.3,7.6,14.9,Moderate,2,35th percentile,Medium,48.93
+Sysco Corp,SYY,Consumer Defensive,72000,2030,4.66,0.92,3.5,05.01,10.36,02.01,12.0,2.8,4.6,4.7,Moderate,2,5th percentile,Low,76.65
+Walmart Inc,WMT,Consumer Defensive,2100000,2040,12.01,0.29,2.2,05.01,12.02,2.67,25.3,7.1,5.9,13.9,High,4,43rd percentile,Medium,69.2
+Becton Dickinson and Co,BDX,Healthcare,73000,2030,9.59,0.5,2.9,05.01,09.04,1.51,23.8,3.0,7.1,13.6,Significant,3,51st percentile,Medium,240.86
+Nucor Corp,NUE,Basic Materials,32000,2050,100.0,-3.57,2.0,05.01,09.04,02.01,32.0,9.3,8.8,14.7,Moderate,2,72nd percentile,Severe,159.52
+Conocophillips,COP,Energy,9900,2050,05.08,0.91,3.3,5.34,9.2,02.01,34.0,17.6,8.3,8.1,Moderate,2,78th percentile,High,109.26
+Danaher Corp,DHR,Healthcare,63000,2032,03.09,0.87,2.2,4.51,7.54,02.01,12.0,1.4,5.2,5.2,Moderate,2,4th percentile,Negligible,274.56
+Amazon.com Inc,AMZN,Consumer Cyclical,1525000,2040,100.0,-5.56,2.6,05.01,11.69,2.34,30.6,9.2,9.9,15.4,Significant,3,64th percentile,High,181.66
+Edison International,EIX,Utilities,14375,2045,100.0,-4.35,1.3,04.01,10.69,1.84,27.0,11.0,6.0,11.0,Significant,3,53rd percentile,,78.97
+Centerpoint Energy Inc,CNP,Utilities,15001,2035,39.24,-2.37,1.8,05.01,10.86,02.01,26.0,10.6,5.4,9.6,Moderate,2,47th percentile,Medium,28.52
+Mccormick & Co Non Vtg Shrs,MKC,Consumer Defensive,13800,2050,100.0,-3.57,1.7,4.51,8.54,02.01,27.0,10.1,5.2,11.3,Moderate,2,52nd percentile,Medium,70.64
+Starbucks Corp,SBUX,Consumer Cyclical,381000,2030,97.89,-2.02,2.1,05.01,11.19,02.01,25.0,6.1,4.2,14.5,Significant,3,43rd percentile,Medium,75.77
+Church & Dwight Co Inc,CHD,Consumer Defensive,5550,2031,100.0,-2.28,1.8,3.51,07.04,1.51,20.0,7.0,7.0,7.0,Moderate,2,25th percentile,Negligible,99.23
+Avery Dennison Corp,AVY,Consumer Cyclical,35000,2030,34.88,0.29,2.0,04.01,09.04,02.01,15.0,10.6,3.7,1.1,Low,1,11th percentile,Low,214.81
+Mgm Resorts International,MGM,Consumer Cyclical,76000,2034,58.36,-1.75,2.7,05.01,9.7,02.01,25.0,2.0,10.5,13.0,Moderate,2,47th percentile,Medium,42.82
+Abbvie Inc,ABBV,Healthcare,50000,2030,5.26,0.71,1.5,04.01,8.86,2.34,28.0,1.1,9.9,16.8,Significant,3,55th percentile,Medium,186.35
+Microchip Technology Inc,MCHP,Technology,22600,2040,100.0,-5.56,2.5,4.51,10.7,1.51,31.0,15.0,7.0,9.0,Low,1,69th percentile,Severe,87.65
+Republic Services Inc,RSG,Industrials,41000,2030,77.05,-3.23,3.6,04.01,8.54,1.51,21.0,11.3,3.7,6.0,Significant,3,29th percentile,Medium,192.22
+Campbell Soup Co,CPB,Consumer Defensive,14500,2030,53.14,0.04,2.7,5.34,9.53,02.01,24.0,11.0,4.0,8.0,Moderate,2,39th percentile,Medium,47.31
+Jm Smucker Co,SJM,Consumer Defensive,5800,2030,99.39,-0.18,2.5,4.51,7.54,02.01,31.0,12.4,6.2,12.4,Moderate,2,69th percentile,High,117.98
+Tjx Companies Inc,TJX,Consumer Cyclical,349000,2040,3.21,0.88,3.9,04.01,9.2,02.01,14.0,1.9,5.1,7.4,Moderate,2,9th percentile,Low,112.96
+Tyson Foods Inc Cl A,TSN,Consumer Defensive,139000,2050,100.0,-3.57,3.7,5.34,10.85,02.01,37.0,14.3,10.0,12.4,High,4,85th percentile,High,56.25
+Carmax Inc,KMX,Consumer Cyclical,29836,2050,100.0,-3.57,3.6,4.51,09.04,02.01,12.0,0.1,4.0,8.0,Moderate,2,5th percentile,Low,83.41
+Devon Energy Corp,DVN,Energy,1900,2050,4.91,0.92,4.0,4.84,9.7,1.51,37.0,20.7,7.8,8.1,Moderate,2,85th percentile,High,46.03
+Hologic Inc,HOLX,Healthcare,6990,2030,0.64,1.0,3.7,04.01,8.54,02.01,28.0,4.8,10.2,13.3,Low,1,58th percentile,Medium,82.47
+American Water Works Co Inc,AWK,Utilities,6500,2025,36.73,-0.36,1.9,04.01,7.54,02.01,22.0,9.0,5.0,8.0,Low,1,32nd percentile,Medium,143.08
+Ecolab Inc,ECL,Basic Materials,48000,2050,100.0,-3.57,2.0,4.84,9.2,02.01,24.0,9.0,6.0,8.0,Moderate,2,40th percentile,Medium,229.02
+Steel Dynamics Inc,STLD,Basic Materials,12600,2030,29.28,-0.46,2.5,05.01,09.04,1.51,32.0,9.8,8.2,14.4,Low,1,73rd percentile,High,129.5
+Lam Research Corp,LRCX,Technology,17200,2050,100.0,-3.57,1.4,05.01,8.54,02.01,13.0,4.5,5.0,4.0,Low,1,7th percentile,Low,863.57
+Wynn Resorts Ltd,WYNN,Consumer Cyclical,27800,2050,100.0,-3.57,3.0,05.01,8.54,02.01,26.0,4.0,11.0,12.0,Significant,3,51st percentile,Medium,82.23
+Freeport Mcmoran Inc,FCX,Basic Materials,27200,2050,29.15,-0.19,1.6,5.67,11.19,02.01,32.0,16.6,5.2,10.1,High,4,72nd percentile,High,43.89
+Xylem Inc,XYL,Industrials,23000,2050,100.0,-3.57,1.3,03.02,7.55,02.01,16.0,4.0,5.0,7.0,Low,1,13th percentile,Negligible,134.14
+Intl Business Machines Corp,IBM,Technology,282200,2030,100.0,-12.5,1.6,4.51,10.86,02.01,14.0,1.8,6.2,6.0,Moderate,2,10th percentile,Low,190.93
+Juniper Networks Inc,JNPR,Technology,11144,2030,36.58,-1.63,2.3,05.01,8.54,02.01,17.0,2.0,6.0,9.0,Low,1,15th percentile,Negligible,37.88
+Palo Alto Networks Inc,PANW,Technology,14789,2040,100.0,-5.56,1.4,4.51,8.54,02.01,14.0,0.7,5.6,7.6,Low,1,8th percentile,Low,318.57
+Microsoft Corp,MSFT,Technology,221000,2045,100.0,-3.79,1.4,05.01,10.03,2.34,15.1,1.5,6.1,7.5,Significant,3,11th percentile,Low,420.45
+Cisco Systems Inc,CSCO,Technology,84900,2040,100.0,-5.56,1.8,04.01,9.53,02.01,12.0,0.0,6.4,5.6,Moderate,2,5th percentile,Low,48.0
+Accenture Plc Cl A,ACN,Technology,733000,2035,100.0,-7.69,1.3,04.01,10.69,02.01,9.8,0.8,4.4,4.6,Moderate,2,2nd percentile,Negligible,64.11
+Adobe Inc,ADBE,Technology,29945,2035,47.3,-2.27,1.4,04.01,9.54,1.51,13.1,1.9,5.2,5.9,Moderate,2,5th percentile,Low,536.23
+Motorola Solutions Inc,MSI,Technology,21000,2030,1.58,01.02,3.0,4.51,08.04,1.51,14.0,2.2,5.4,6.7,Significant,3,9th percentile,Low,394.86
+Cognizant Tech Solutions A,CTSH,Technology,347700,2050,100.0,-3.57,1.3,04.01,9.2,2.34,14.0,1.1,5.6,7.6,Moderate,2,9th percentile,Low,75.49
+Autodesk Inc,ADSK,Technology,13700,2050,100.0,-3.27,1.4,4.51,08.04,02.01,16.0,3.0,4.0,8.0,Very Low,0,13th percentile,Negligible,242.31
+Texas Instruments Inc,TXN,Technology,34000,2025,21.04,-0.25,3.3,4.51,09.04,02.01,20.0,8.8,6.0,5.1,Moderate,2,25th percentile,Low,201.72
+Akamai Technologies Inc,AKAM,Technology,10250,2050,100.0,-3.57,1.6,05.01,9.54,02.01,17.0,2.9,6.7,6.9,Low,1,14th percentile,Low,97.67
+Seagate Technology Holdings,STX,Technology,33400,2040,100.0,-2.77,2.4,05.01,8.54,02.01,11.0,1.6,5.3,3.8,Low,1,2nd percentile,Low,99.82
+Cadence Design Sys Inc,CDNS,Technology,11200,2040,5.68,0.71,1.7,05.01,9.54,02.01,12.0,1.4,4.7,6.1,Very Low,0,5th percentile,Low,252.82
+United Parcel Service Cl B,UPS,Industrials,500000,2035,46.71,-0.87,1.9,4.51,10.86,02.01,20.0,4.6,5.4,9.6,Moderate,2,24th percentile,Low,74.1
+Qualcomm Inc,QCOM,Technology,50000,2040,100.0,-5.56,1.6,4.51,08.04,1.51,17.0,4.8,7.7,4.1,High,4,14th percentile,Low,169.68
+Equifax Inc,EFX,Industrials,14900,2040,100.0,-5.56,1.5,4.51,9.7,02.01,26.0,0.0,7.0,19.0,High,4,48th percentile,Medium,276.81
+Ebay Inc,EBAY,Consumer Cyclical,12300,2035,04.09,0.81,3.8,05.01,9.7,02.01,17.0,1.0,7.0,9.0,Moderate,2,16th percentile,Negligible,55.21
+Fidelity National Info Serv,FIS,Technology,60000,2025,3.87,-0.32,1.7,05.01,09.04,02.01,18.0,1.3,5.7,11.1,Low,1,19th percentile,Low,76.51
+Cbre Group Inc A,CBRE,Real Estate,130000,2040,100.0,-5.56,2.7,4.51,07.04,1.51,7.0,1.0,3.0,2.0,Low,1,1st percentile,Negligible,111.15
+Leidos Holdings Inc,LDOS,Technology,47000,2040,9.84,0.72,1.6,4.51,8.54,2.34,12.0,1.3,5.4,5.0,Moderate,2,4th percentile,Low,148.06
+Hp Inc,HPQ,Technology,58000,2040,100.0,-5.56,2.0,4.51,9.2,02.01,11.0,0.0,6.0,5.0,Moderate,2,3rd percentile,Negligible,39.37
+Kimberly Clark Corp,KMB,Consumer Defensive,41000,2030,45.47,-1.13,2.0,3.52,8.7,02.01,22.0,8.0,6.0,8.0,Moderate,2,32nd percentile,Medium,136.21
+Hershey Co,HSY,Consumer Defensive,20505,2030,100.0,-2.34,2.1,05.01,9.2,02.01,27.0,11.3,5.2,10.9,Significant,3,55th percentile,Medium,193.49
+Nordson Corp,NDSN,Industrials,7900,2050,1.75,01.07,1.9,05.01,9.54,02.01,27.0,9.3,5.6,11.8,Low,1,52nd percentile,Medium,246.87
+Boston Scientific Corp,BSX,Healthcare,48000,2050,100.0,-3.57,3.7,05.01,8.7,02.01,26.0,3.0,10.6,12.7,Moderate,2,49th percentile,Medium,73.77
+Merck & Co. Inc.,MRK,Healthcare,72000,2050,81.73,-2.71,2.0,4.51,7.54,02.01,22.0,0.8,9.6,11.5,Significant,3,32nd percentile,Medium,114.99
+Kraft Heinz Co,KHC,Consumer Defensive,36000,2050,100.0,-3.57,2.3,05.01,9.7,02.01,35.0,14.0,7.0,14.0,Significant,3,80th percentile,Severe,33.78
+Marsh & Mclennan Cos,MMC,Financial Services,85000,2050,100.0,-3.45,1.7,4.51,8.54,02.01,19.0,0.1,11.5,7.9,Moderate,2,24th percentile,Low,221.91
+Elevance Health Inc,ELV,Healthcare,104900,2050,0.71,1.12,1.4,3.51,08.04,2.34,11.0,0.0,5.7,5.8,Moderate,2,4th percentile,Low,534.56
+Vertex Pharmaceuticals Inc,VRTX,Healthcare,5400,2024,1.36,0.7,1.5,4.51,8.2,02.01,23.0,0.8,6.7,15.4,Moderate,2,36th percentile,Medium,502.46
+American Electric Power,AEP,Utilities,17250,2050,84.62,-2.85,2.4,05.01,09.04,1.84,26.0,13.0,5.0,8.0,Moderate,2,47th percentile,Medium,96.95
+Sherwin Williams Co,SHW,Basic Materials,64088,2030,3.66,0.85,3.4,4.51,7.54,1.51,29.0,12.9,6.7,9.0,Moderate,2,58th percentile,Medium,352.65
+Borgwarner Inc,BWA,Consumer Cyclical,39900,2035,99.96,-2.35,2.4,05.01,8.54,02.01,13.0,3.0,6.0,4.0,Moderate,2,6th percentile,Negligible,32.29
+S&p Global Inc,SPGI,Financial Services,40450,2040,2.51,0.92,1.8,04.01,8.54,02.01,14.0,0.0,8.1,6.2,Low,1,9th percentile,Low,489.41
+Ameren Corporation,AEE,Utilities,9372,2050,82.5,-2.75,3.5,5.34,10.2,1.51,30.0,14.1,5.5,9.9,Moderate,2,63rd percentile,Medium,79.11
+Illinois Tool Works,ITW,Industrials,45000,2030,2.8,0.83,2.0,4.51,08.04,02.01,20.0,4.3,6.2,9.1,Moderate,2,24th percentile,Low,248.76
+Intel Corp,INTC,Technology,124800,2040,5.61,0.72,2.7,05.01,8.7,02.01,17.0,4.4,7.0,5.9,Significant,3,16th percentile,Low,30.31
+Walgreens Boots Alliance Inc,WBA,Healthcare,331000,2030,6.17,0.89,2.0,04.01,10.53,2.34,18.0,2.0,4.7,11.5,Significant,3,20th percentile,Low,12.18
+Aptiv Plc,APTV,Consumer Cyclical,154000,2030,100.0,-6.68,2.2,4.51,08.04,02.01,12.0,2.0,5.0,4.0,Low,1,4th percentile,Negligible,67.62
+Biogen Inc,BIIB,Healthcare,7570,2045,100.0,-4.35,1.3,05.01,7.54,02.01,21.0,0.0,7.8,13.2,Significant,3,29th percentile,Medium,212.1
+Zimmer Biomet Holdings Inc,ZBH,Healthcare,18000,2030,31.98,0.08,2.5,05.01,9.54,02.01,27.0,4.0,8.0,15.0,Moderate,2,54th percentile,Medium,111.44
+Kinder Morgan Inc,KMI,Energy,10891,2050,31.97,-0.32,3.4,05.01,09.04,2.34,19.0,7.8,3.5,7.3,Moderate,2,21st percentile,Low,21.6
+Hormel Foods Corp,HRL,Consumer Defensive,20000,2030,100.0,-4.87,3.0,4.51,8.21,02.01,30.0,13.2,6.0,10.7,Significant,3,65th percentile,Medium,31.84
+Dollar Tree Inc,DLTR,Consumer Defensive,211826,2031,21.0,0.48,2.2,05.01,10.53,02.01,15.0,3.4,4.1,7.4,Moderate,2,10th percentile,Low,104.16
+Western Digital Corp,WDC,Technology,53000,2032,29.93,-1.55,2.7,05.01,9.54,02.01,11.0,1.5,6.1,3.9,Low,1,4th percentile,Low,64.03
+Interpublic Group of Cos Inc,IPG,Communication Services,57400,2040,100.0,-5.56,1.3,05.01,08.04,02.01,10.0,0.0,5.3,5.1,Low,1,3rd percentile,Low,31.65

@@ -1,0 +1,39 @@
+<!-- ESGBOT/templates/index.html -->
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ESG Chatbot</title>
+</head>
+<body>
+    <h1>ESG Chatbot</h1>
+    <div>
+        <label for="query">Ask a question:</label>
+        <input type="text" id="query" name="query">
+        <button onclick="sendQuery()">Submit</button>
+    </div>
+    <div id="response">
+        <h2>Response:</h2>
+        <p id="answer"></p>
+    </div>
+
+    <script>
+        function sendQuery() {
+        const query = document.getElementById("query").value;
+        fetch('/query', {
+        method: 'POST',
+        headers: {
+        'Content-Type': 'application/json'
+        },
+        body: JSON.stringify({ query: query })
+        })
+        .then(response => response.json())
+        .then(data => {
+        document.getElementById("answer").innerText = data.answer;
+        });
+        }
+    </script>
+</body>
+</html>
